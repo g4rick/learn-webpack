@@ -1178,6 +1178,10 @@ locate-path@^2.0.0:
     p-locate "^2.0.0"
     path-exists "^3.0.0"
 
+lodash@^4.17.5:
+  version "4.17.5"
+  resolved "https://r.cnpmjs.org/lodash/download/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+
 lru-cache@^4.1.1:
   version "4.1.2"
   resolved "https://r.cnpmjs.org/lru-cache/download/lru-cache-4.1.2.tgz#45234b2e6e2f2b33da125624c4664929a0224c3f"
