@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/g4rick/learn-webpack#readme",
   "devDependencies": {
-    "webpack": "^4.4.1"
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.14"
   },
   "dependencies": {
     "lodash": "^4.17.5"
