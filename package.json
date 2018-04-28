@@ -29,6 +29,7 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "tapable": "^1.0.0"
   }
 }
